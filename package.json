@@ -1,0 +1,23 @@
+{
+  "name": "docker-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash1x/docker-basic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akash1x/docker-basic/issues"
+  },
+  "homepage": "https://github.com/akash1x/docker-basic#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
